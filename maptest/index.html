@@ -38,7 +38,23 @@
           zoom: 4
         })
       });
-      
+        //FUNKTIOT
+      function doBounce(location) {
+        // bounce by zooming out one level and back in
+        var bounce = ol.animation.bounce({
+          resolution: map.getView().getResolution() * 2
+        });
+        // start the pan at the current center of the map
+        var pan = ol.animation.pan({
+          source: map.getView().getCenter()
+        });
+        map.beforeRender(bounce);
+        map.beforeRender(pan);
+        // when we set the center to the new location, the animated move will
+        // trigger the bounce and pan effects
+        map.getView().setCenter(location);
+      }
+        // HIIREN NÄPÄYTYS (KOORDINAATIT)
         // register an event handler for the click event
         map.on('click', function(event) {
           // extract the spatial coordinate of the click event in map projection units
