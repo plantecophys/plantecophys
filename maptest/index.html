@@ -19,15 +19,7 @@
         layers: [
           new ol.layer.Tile({
             source: new ol.source.OSM()
-          }),
-        new ol.layer.Tile({
-          extent: [-13884991, 2870341, -7455066, 6338219],
-          source: new ol.source.TileWMS({
-            url: 'https://ahocevar.com/geoserver/wms',
-            params: {'LAYERS': 'topp:states', 'TILED': true},
-            serverType: 'geoserver'
           })
-        })
         ],
         view: new ol.View({
           center: ol.proj.fromLonLat([29.20, 63.45]),
