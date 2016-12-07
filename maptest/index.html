@@ -15,6 +15,7 @@
   <body>
     <div id="map" class="map"></div>
     <button onclick="doBounce(Joensuu);">Go To Joensuu CG</button><br />
+    <div id="overlay" style="background-color: white; border-radius: 10px; border: 1px solid black; padding: 5px 10px;">
     <script type="text/javascript">
       // Overlay
        var overlay = new ol.Overlay({
@@ -34,7 +35,7 @@
         // Kartan näkymä
         view: new ol.View({
           center: JoensuuCG,
-          zoom: 8
+          zoom: 6
         })
       });
         //FUNKTIOT
@@ -52,7 +53,7 @@
         // when we set the center to the new location, the animated move will
         // trigger the bounce and pan effects
         map.getView().setCenter(location);
-      }
+      };
         // HIIREN NÄPÄYTYS (KOORDINAATIT)
         // register an event handler for the click event
         map.on('click', function(event) {
