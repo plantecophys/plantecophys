@@ -16,6 +16,10 @@
     <div id="map" class="map"></div>
     <div id="overlay" style="background-color: white; border-radius: 10px; border: 1px solid black; padding: 5px 10px;">
     <script type="text/javascript">
+       var overlay = new ol.Overlay({
+        element: document.getElementById('overlay'),
+        positioning: 'bottom-center'
+        });
       var map = new ol.Map({
         target: 'map',
         layers: [
