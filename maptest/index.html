@@ -28,13 +28,15 @@
         target: 'map',
         layers: [
           new ol.layer.Tile({
-            source: new ol.source.OSM()
+            source: new ol.source.OSM(),
+          opacity: 0.6,
+          brightness: 0.2
           })
         ],
         // Kartan näkymä
         view: new ol.View({
           center: JoensuuCG,
-          zoom: 7
+          zoom: 5
         })
       });
         //FUNKTIOT tähän ehkä
