@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Minimal animation example</title>
+        <title>Animation events example</title>
 
         <!--
         Notice, this example uses jQuery ( http://jquery.com/ ).
@@ -87,13 +87,36 @@
                         scope : this,
                         // Some of the functions are set undefined here.
                         // You may set your own functions here for testing purposes.
-                        animationloadstarted : function() {
+                        animationloadstarted : function(event) {
                             // Set status text into HTML element.
                             jQuery("#animationStatus").html("Status: loading started...");
+                            jQuery("#animationEvents").append("animationloadstarted event<br>");
                         },
-                        animationloadcomplete : function() {
+                        frameloadstarted : function(event) {
+                            // Set notification about event into HTML element.
+                            jQuery("#animationEvents").append("frameloadstarted event<br>");
+                        },
+                        frameloadcomplete : function(event) {
+                            // Set notification about event into HTML element.
+                            jQuery("#animationEvents").append("frameloadcomplete event<br>");
+                        },
+                        animationloadgroupprogress : function(event) {
+                            // Set notification about event into HTML element.
+                            jQuery("#animationEvents").append("animationloadgroupprogress event<br>");
+                        },
+                        animationloadcomplete : function(event) {
                             // Set status text into HTML element.
                             jQuery("#animationStatus").html("Status: loading complete.");
+                            // Set notification about event into HTML element.
+                            jQuery("#animationEvents").append("animationloadcomplete event<br>");
+                        },
+                        animationframecontentreleased : function(event) {
+                            // Set notification about event into HTML element.
+                            jQuery("#animationEvents").append("animationframecontentreleased event<br>");
+                        },
+                        framechanged : function(event) {
+                            // Set notification about event into HTML element.
+                            jQuery("#frameDate").html("Frame time: " + (event.events[0] ? event.events[0].time.toISOString() : "") + " (framechanged event)");
                         }
                     };
                     animation.events.on(events);
@@ -111,5 +134,11 @@
         <div id="wmsMap" class="map">
             <!-- Animation WMS map will be inserted here. -->
         </div>
+        <p id="frameDate">
+            <!-- Animation frame time will be inserted here. -->
+        </p>
+        <p id="animationEvents">
+            <!-- Animation frame events will be inserted here. -->
+        </p>
     </body>
 </html>
