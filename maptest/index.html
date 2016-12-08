@@ -17,16 +17,13 @@
     <div id="map" class="map"></div>
     <div id="overlay" style="background-color: white; border-radius: 10px; border: 1px solid black; padding: 5px 10px;"></div>
     <script type="text/javascript">
-      
       // Overlay
        var overlay = new ol.Overlay({
         element: document.getElementById('overlay'),
         positioning: 'bottom-center'
         });
-      
       // Joensuu / kartan keskipiste
       var JoensuuCG = ol.proj.transform([29.4326, 62.3607], 'EPSG:4326', 'EPSG:3857');
-      
       // Kartta
       var map = new ol.Map({
         target: 'map',
@@ -36,16 +33,13 @@
           brightness: 0.2
           })
         ];
-        
         // Kartan näkymä
         view: new ol.View({
           center: JoensuuCG,
           zoom: 5
         })
       }),
-      
         //FUNKTIOT tähän ehkä
-
         // HIIREN NÄPÄYTYS (KOORDINAATIT)
         // register an event handler for the click event
         map.on('click', function(event) {
