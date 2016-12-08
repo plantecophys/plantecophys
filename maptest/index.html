@@ -17,16 +17,6 @@
     <div id="map" class="map"></div>
     <div id="overlay" style="background-color: white; border-radius: 10px; border: 1px solid black; padding: 5px 10px;"></div>
     <script type="text/javascript">
-    
-      // create a vector source that loads a GeoJSON file
-      var vectorSource = new ol.source.GeoJSON({
-        projection: 'EPSG:3857',
-        url: '../assets/data/countries.geojson'
-      });
-      // a vector layer to render the source
-      var vectorLayer = new ol.layer.Vector({
-        source: vectorSource
-      });
       
       // Overlay
        var overlay = new ol.Overlay({
