@@ -2,17 +2,10 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Animation events example</title>
-
-        <!--
-        Notice, this example uses jQuery ( http://jquery.com/ ).
-        Quick access link is used for jQuery instead of having
-        a local source copy of the component because jQuery is only
-        used with examples.
-        -->
+        <title>Minimal animation example</title>
 
         <!-- Stylesheets -->
-        <link rel="stylesheet" href="../deps/OpenLayers-2.13.1/theme/default/style.css" />
+        <link rel="stylesheet" href="https://openlayers.org/en/v3.19.1/css/ol.css" type="text/css" />
 
         <!-- Internal style -->
         <style>
@@ -25,8 +18,7 @@
 
         <!-- JavaScript -->
         <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-        <script type="text/javascript" src="../deps/OpenLayers-2.13.1/OpenLayers.js"></script>
-        <script type="text/javascript" src="../lib/openlayers-animation-1.0.9-min.js"></script>
+        <script type="text/javascript" src="https://openlayers.org/en/v3.19.1/build/ol.js" type="text/javascript"></script>
 
         <script type="text/javascript">
             jQuery(function() {
@@ -87,36 +79,13 @@
                         scope : this,
                         // Some of the functions are set undefined here.
                         // You may set your own functions here for testing purposes.
-                        animationloadstarted : function(event) {
+                        animationloadstarted : function() {
                             // Set status text into HTML element.
                             jQuery("#animationStatus").html("Status: loading started...");
-                            jQuery("#animationEvents").append("animationloadstarted event<br>");
                         },
-                        frameloadstarted : function(event) {
-                            // Set notification about event into HTML element.
-                            jQuery("#animationEvents").append("frameloadstarted event<br>");
-                        },
-                        frameloadcomplete : function(event) {
-                            // Set notification about event into HTML element.
-                            jQuery("#animationEvents").append("frameloadcomplete event<br>");
-                        },
-                        animationloadgroupprogress : function(event) {
-                            // Set notification about event into HTML element.
-                            jQuery("#animationEvents").append("animationloadgroupprogress event<br>");
-                        },
-                        animationloadcomplete : function(event) {
+                        animationloadcomplete : function() {
                             // Set status text into HTML element.
                             jQuery("#animationStatus").html("Status: loading complete.");
-                            // Set notification about event into HTML element.
-                            jQuery("#animationEvents").append("animationloadcomplete event<br>");
-                        },
-                        animationframecontentreleased : function(event) {
-                            // Set notification about event into HTML element.
-                            jQuery("#animationEvents").append("animationframecontentreleased event<br>");
-                        },
-                        framechanged : function(event) {
-                            // Set notification about event into HTML element.
-                            jQuery("#frameDate").html("Frame time: " + (event.events[0] ? event.events[0].time.toISOString() : "") + " (framechanged event)");
                         }
                     };
                     animation.events.on(events);
@@ -134,11 +103,5 @@
         <div id="wmsMap" class="map">
             <!-- Animation WMS map will be inserted here. -->
         </div>
-        <p id="frameDate">
-            <!-- Animation frame time will be inserted here. -->
-        </p>
-        <p id="animationEvents">
-            <!-- Animation frame events will be inserted here. -->
-        </p>
     </body>
 </html>
