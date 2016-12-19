@@ -30,11 +30,11 @@
           center: ol.proj.fromLonLat([37.41, 8.82]),
           zoom: 4
         })
-       var overlay = new ol.Overlay({
+      });
+      var overlay = new ol.Overlay({
           element: document.getElementById('overlay'),
           positioning: 'bottom-center'
         });
-      });
               // register an event handler for the click event
         map.on('click', function(event) {
           // extract the spatial coordinate of the click event in map projection units
