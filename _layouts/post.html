@@ -7,6 +7,9 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
+<br>
+<p>Comments:</p>
+<br>
 {%if page.comments %}
   {% assign sorted_comments = (page.comments | sort: 'date') %}
 {% endif %}
