@@ -5,6 +5,15 @@ body {
     width: 70%;
     background-color: #1a1a1a;
 }
+<!--footeri_ym_alkaa--!>
+.copyright {
+    color: #ffffff;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    text-align: center;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -15,6 +24,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+<!--footeri_ym_loppuu--!>
 a {
     text-decoration: none;
     color: #ffffff;
@@ -32,12 +42,6 @@ p {
     line-height: 1.4em;
     color: #ffffff;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-    text-align: center;
-}
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 2.5em;
