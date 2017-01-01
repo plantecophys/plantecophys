@@ -96,6 +96,8 @@ ul.blog li {
 /* Commentit alkaa */
 .media p {
     font-size: 1.3em;
+    position: relative;
+    left: 30px;
 }
 .media {
     margin-top: 15px;
@@ -108,7 +110,6 @@ ul.blog li {
 }
 .media-body { 
     width: 10000px;
-    margin-top: 100;
 }
 .media-left, .media > .pull-left {
     padding-right: 10px;
