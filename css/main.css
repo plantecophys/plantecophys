@@ -94,6 +94,9 @@ ul.blog li {
 }
 /* Recent Posts box loppuu*/
 /* Commentit alkaa */
+.media p {
+    font-size: 1.3em;
+}
 .media {
     margin-top: 15px;
 }
