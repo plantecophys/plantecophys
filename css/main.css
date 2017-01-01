@@ -57,17 +57,14 @@ ul.posts li {
     color: #ee4444;
     font-size: 1.3em;
 }
-
 .sidebar a {
     color: #428bca;
 }
-
 .sidebar li {
     margin-top: .7em;
     line-height: 1em;
     color: #428bca;
 }
-
 .sidebar a:hover {
     color: #3071a9;
 }
