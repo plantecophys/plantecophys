@@ -54,8 +54,12 @@ ul.posts li {
 /* Recent Posts box alkaa*/
 .recentposts h1 {
     color: #e60000;
+    font-size: 1.3em;
 }
 .recentposts a {
     color: #0000b3;
+}
+.recentposts a:hover {
+    color: #3071a9;
 }
 /* Recent Posts box loppuu*/
