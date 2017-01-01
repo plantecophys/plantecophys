@@ -47,8 +47,15 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 2.5em;
 }
-
 ul.posts li {
     list-style: none;
     color: #cccccc;
 }
+/* Recent Posts box alkaa*/
+.recentposts h1 {
+    color: #e60000;
+}
+.recentposts a {
+    color: #0000b3;
+}
+/* Recent Posts box loppuu*/
