@@ -5,18 +5,6 @@ body {
     width: 70%;
     background-color: #1a1a1a;
 }
-a {
-    text-decoration: none;
-    color: #ffffff;
-}
-a:hover {
-    text-decoration: none;
-    color: #595959;
-}
-a:visited {
-    text-decoration: none;
-    color: #595959;
-}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -26,6 +14,18 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #ffffff;
+}
+a {
+    text-decoration: none;
+    color: #00cc99;
+}
+a:hover {
+    text-decoration: none;
+    color: #595959;
+}
+a:visited {
+    text-decoration: none;
+    color: #595959;
 }
 /* footeri ym alkaa */
 /*TODO should maybe separate nav and footer */
