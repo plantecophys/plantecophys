@@ -12,9 +12,6 @@ a {
 a:hover {
     color: #595959;
 }
-a:visited {
-    color: #595959;
-}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
