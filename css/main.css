@@ -44,13 +44,14 @@ ul.posts li {
     list-style: none;
     color: #cccccc;
 }
+<!--sivupalkki_alkaa--!>
 .sidebar h1 {
     color: #ee4444;
     font-size: 1.3em;
 }
 
 .sidebar a {
-    color: #428bca;
+    color: #ee4444;
 }
 
 .sidebar li {
@@ -67,6 +68,7 @@ ul.posts li {
 }
 
 .well h1 {
-    color: #3071a9;
+    color: #ee4444;
     font-size: 1.3em;
 }
+<!--sivupalkki_loppuu--!>
