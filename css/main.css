@@ -101,10 +101,10 @@ ul.blog li {
     margin-top: 0;
 }
 .media, .media-body {
-    zoom: 5; overflow: hidden;
+    zoom: 1; overflow: hidden;
 }
 .media-body { 
-    width: 10000px;
+    width: 20px;
 }
 .media-left, .media > .pull-left {
     padding-right: 10px;
