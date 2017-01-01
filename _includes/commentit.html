@@ -3,10 +3,14 @@
   {% assign sorted_comments = (page.comments | sort: 'date') %}
 {% endif %}
 {% for c in sorted_comments %}
+<div class="row">
+ <div class="col-md-12">
   <div class="media">
     <div class="media-left">
       <img src="{{ c.author.picture }}" alt="{{ c.author.displayName}}" height="73" width="73">
     </div>
+  </div>
+</div>
     <div class="media-body">
       <p class="text-muted">
         <a href="{{ c.author.url }}">{{ c.author.displayName }}</a>
