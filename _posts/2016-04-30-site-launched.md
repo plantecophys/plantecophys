@@ -10,6 +10,13 @@ comments:
       picture: 'https://avatars.githubusercontent.com/u/17721617?v=3&s=73'
     content: testing...
     date: 2016-12-31T10:27:10.732Z
+  - author:
+      type: full
+      displayName: AnttiTenkanen
+      url: 'https://github.com/AnttiTenkanen'
+      picture: 'https://avatars.githubusercontent.com/u/17721617?v=3&s=73'
+    content: testing2
+    date: 2017-01-01T20:56:06.071Z
 
 ---
 
