@@ -7,11 +7,11 @@ body {
 }
 <!--footeri_ym_alkaa--!>
 .copyright {
-    color: #7a3a3a;
+    color: #ffffff;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: 5.8em;
+    font-size: .8em;
     text-align: center;
 }
 nav ul, footer ul {
