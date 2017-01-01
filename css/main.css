@@ -62,4 +62,8 @@ ul.posts li {
 .recentposts a:hover {
     color: #3071a9;
 }
+.recentposts li {
+    margin-top: .7em;
+    line-height: 1em;
+}
 /* Recent Posts box loppuu*/
