@@ -81,6 +81,10 @@ ul.blog li {
     text-decoration: none;
     color: #595959;
 }
+.recentposts a:visited {
+    text-decoration: none;
+    color: #595959;
+}
 .recentposts li {
     margin-top: .7em;
     line-height: 1em;
