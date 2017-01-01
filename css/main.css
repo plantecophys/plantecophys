@@ -30,6 +30,10 @@ p {
 .copyright a {
     color: #00cc99;
 }
+.copyright a:hover {
+    text-decoration: none;
+    color: #595959;
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
