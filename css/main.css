@@ -10,6 +10,11 @@ a {
     color: #ffffff;
 }
 a:hover {
+    text-decoration: none;
+    color: #595959;
+}
+a:visited {
+    text-decoration: none;
     color: #595959;
 }
 h1 {
@@ -31,6 +36,10 @@ p {
     color: #00cc99;
 }
 .copyright a:hover {
+    text-decoration: none;
+    color: #595959;
+}
+.copyright a:visited {
     text-decoration: none;
     color: #595959;
 }
@@ -69,7 +78,8 @@ ul.blog li {
     color: #00cc99;
 }
 .recentposts a:hover {
-    color: #3071a9;
+    text-decoration: none;
+    color: #595959;
 }
 .recentposts li {
     margin-top: .7em;
