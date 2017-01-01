@@ -17,6 +17,15 @@ comments:
       picture: 'https://avatars.githubusercontent.com/u/17721617?v=3&s=73'
     content: testing2
     date: 2017-01-01T20:56:06.071Z
+  - author:
+      type: full
+      displayName: AnttiTenkanen
+      url: 'https://github.com/AnttiTenkanen'
+      picture: 'https://avatars.githubusercontent.com/u/17721617?v=3&s=73'
+    content: >-
+      testing testing testing asfa adfslaekj erklewlrkw&ouml;rlwerk&ouml;lwe
+      fsdfs wa sdas wr wa
+    date: 2017-01-01T23:31:50.580Z
 
 ---
 
