@@ -5,8 +5,8 @@ body {
     width: 70%;
     background-color: #1a1a1a;
 }
-<!--footeri ym alkaa-->
-<!--should maybe separate nav and footer-->
+/* footeri ym alkaa */
+/* should maybe separate nav and footer */
 .copyright {
     color: #ffffff;
 }
@@ -25,7 +25,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-<!--footeri ym loppuu-->
+/* footeri ym loppuu */
 a {
     text-decoration: none;
     color: #ffffff;
@@ -52,7 +52,7 @@ ul.posts li {
     list-style: none;
     color: #cccccc;
 }
-<!--sivupalkki alkaa-->
+/* sivupalkki alkaa */
 .sidebar h1 {
     color: #ee4444;
     font-size: 1.3em;
@@ -77,4 +77,4 @@ ul.posts li {
     color: #ee4444;
     font-size: 1.3em;
 }
-<!--sivupalkki loppuu-->
+/* sivupalkki loppuu */
