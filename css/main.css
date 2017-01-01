@@ -43,15 +43,17 @@ p {
     line-height: 1.4em;
     color: #ffffff;
 }
-ul.posts { 
+/* Blogin etusivu alkaa */
+ul.blog { 
     margin: 20px auto 40px; 
-    font-size: 2.5em;
+    font-size: 1.5em;
 }
-ul.posts li {
+ul.blog li {
     list-style: none;
     color: #cccccc;
 }
-/* Recent Posts box alkaa*/
+/* Blogin etusivu loppuu */
+/* Recent Posts box alkaa */
 .recentposts h1 {
     color: #e60000;
     font-size: 1.3em;
