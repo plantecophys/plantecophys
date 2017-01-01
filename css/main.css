@@ -104,10 +104,10 @@ ul.blog li {
     zoom: 1; overflow: hidden;
 }
 .media-body { 
-    width: 20px;
+    width: 10000px;
 }
 .media-left, .media > .pull-left {
-    padding-right: 10px;
+    padding-right: 50px;
 }
 .media-left, .media-body {
     display: table-cell; vertical-align: top;
