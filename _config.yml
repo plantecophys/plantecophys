@@ -1,5 +1,7 @@
 name: Antti's site
 markdown: kramdown
+timezone: "Europe/Helsinki"
 permalink: /blog/:year/:month/:day/:title
 paginate: 3
+highlighter: rouge
 gems: ['jekyll-paginate']
