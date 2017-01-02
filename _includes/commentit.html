@@ -1,6 +1,5 @@
 <script>
-var d=new Date();
-document.write(d.toString());
+var d= c.date;
 </script>
 <div id="commentit"></div>
 {%if page.comments %}
@@ -14,7 +13,7 @@ document.write(d.toString());
     <div class="media-body">
       <p class="text-muted">
         <a href="{{ c.author.url }}">{{ c.author.displayName }}</a>
-        on {{ c.date | toString() }}
+        on <script>document.write(d.toString());</script>
       </p>
       <p>{{ c.content | newline_to_br }}</p>
    </div>
