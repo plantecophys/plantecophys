@@ -1,3 +1,7 @@
+<script>
+  var d = new c.date();
+  var n = d.toString(); 
+</script>
 <div id="commentit"></div>
 {%if page.comments %}
   {% assign sorted_comments = (page.comments | sort: 'date') %}
@@ -10,7 +14,7 @@
     <div class="media-body">
       <p class="text-muted">
         <a href="{{ c.author.url }}">{{ c.author.displayName }}</a>
-       on {{ c.date }}
+       on {{ n }}
       </p>
       <p>{{ c.content | newline_to_br }}</p>
    </div>
