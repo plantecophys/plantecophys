@@ -29,3 +29,9 @@
     	<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
+	<script>
+$(".nav a").on("click", function(){
+  $(".nav").find(".active").removeClass("active");
+  $(this).parent().addClass("active");
+});
+</script>
