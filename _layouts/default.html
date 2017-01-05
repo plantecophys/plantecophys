@@ -27,5 +27,25 @@
    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     	<!-- Include all compiled plugins (below), or include individual files as needed -->
     	<script src="js/bootstrap.min.js"></script>
+      var navlnks = document.querySelectorAll(".nav a");
+        Array.prototype.map.call(navlnks, function(item) {
+
+            item.addEventListener("click", function(e) {
+
+                var navlnks = document.querySelectorAll(".nav a"); 
+
+                Array.prototype.map.call(navlnks, function(item) {
+
+                    if (item.parentNode.className == "active" || item.parentNode.className == "active open" ) {
+
+                        item.parentNode.className = "";
+
+                    } 
+
+                }); 
+
+                e.currentTarget.parentNode.className = "active";
+            });
+        });
 </body>
 </html>
