@@ -38,6 +38,9 @@ a:visited {
   color: #1a1a1a;
   border-color: #1a1a1a;
 }
+.meta>p {
+    color: #cc08bb;
+}
 /* yleisilme loppuu */
 /* footeri ym alkaa */
 /*TODO should maybe separate nav and footer */
