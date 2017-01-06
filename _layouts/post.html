@@ -7,7 +7,6 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
-<div class="sivunvaihtonapit">
   <div class="pagination">
   {% if page.next %}
      <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a>
@@ -16,7 +15,6 @@ layout: default
      <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
   {% endif %}
   </div>
-</div>
 <br>
 <p>Comments:</p>
 <br>
