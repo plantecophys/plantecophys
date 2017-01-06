@@ -2,13 +2,13 @@
 body {
     padding-top: 70px;
     padding-bottom: 70px;
-    margin: 0px auto;
+    margin: 70px auto;
     width: 70%;
     background-color: #1a1a1a;
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Lora', 'Times New Roman', serif;
     color: #ffa366;
 }
 p {
