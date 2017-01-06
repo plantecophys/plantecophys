@@ -87,7 +87,7 @@ ul.blog li {
 /* Recent Posts box alkaa */
 .recentposts h1 {
     color: #ffa366;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 .recentposts a {
     color: #00cc99;
@@ -102,7 +102,7 @@ ul.blog li {
 }
 .recentposts li {
     margin-top: .7em;
-    line-height: 0.5em;
+    line-height: 1em;
     color: #cccccc;
 }
 /* Recent Posts box loppuu*/
