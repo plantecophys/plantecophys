@@ -33,7 +33,7 @@ a:visited {
     text-decoration: none;
     color: #595959;
 }
-.pagination {
+.pagination>a {
   background: purple;
   color: #fff;
 }
