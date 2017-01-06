@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Site launched
-date: 2016-04-30T00:00:00.000Z
+date: 2017-01-06
 ---
 
 So, I guess I <i>finally</i> got around to launching this website. It was a long time coming, and with me coming from no real coding background, it was a rocky road. I used to have homepages when I was a kid (some 15 years ago), but back then you didn't have to think about mobile device readability and such. All the same, I saw it as a nice little challenge for myself then and now again.
