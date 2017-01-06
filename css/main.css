@@ -33,8 +33,9 @@ a:visited {
     text-decoration: none;
     color: #595959;
 }
-.sivunvaihtonapit {
-    background-color: #00cc99;
+.pagination>li.active>a {
+  background: purple;
+  color: #fff;
 }
 /* yleisilme loppuu */
 /* footeri ym alkaa */
