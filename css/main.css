@@ -107,6 +107,9 @@ ul.blog li {
 }
 /* Recent Posts box loppuu*/
 /* Commentit alkaa */
+.media {
+    font-family:'Lora', 'Times New Roman', serif;
+}
 .media p {
     font-size: 1.3em;
     position: relative;
