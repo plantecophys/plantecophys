@@ -68,6 +68,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+.navbar>li.active>a {
+  background: #d5d5d5;
+  color: #00cc99;
+}
 /* footeri ym loppuu */
 /* Blogin etusivu alkaa */
 ul.blog { 
