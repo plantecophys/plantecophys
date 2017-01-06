@@ -33,6 +33,9 @@ a:visited {
     text-decoration: none;
     color: #595959;
 }
+.sivunvaihtonapit {
+    background-color: #00cc99;
+}
 /* yleisilme loppuu */
 /* footeri ym alkaa */
 /*TODO should maybe separate nav and footer */
