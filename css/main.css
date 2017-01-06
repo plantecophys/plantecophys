@@ -3,12 +3,12 @@ body {
     padding-top: 70px;
     padding-bottom: 70px;
     margin: 70px auto;
-    width: 70%;
+    width: 100%;
     background-color: #1a1a1a;
+    font-family:'Lora', 'Times New Roman', serif;
 }
 h1 {
     font-size: 3em;
-    font-family:'Lora', 'Times New Roman', serif;
     color: #ffa366;
 }
 p {
