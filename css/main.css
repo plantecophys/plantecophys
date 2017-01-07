@@ -68,14 +68,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #ffffff;
+    background-color: #595959;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
-.active nav {
-    color: #ffffff;
-    background-color: #595959;
 }
 /* footeri ym loppuu */
 /* Blogin etusivu alkaa */
