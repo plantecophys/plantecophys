@@ -59,9 +59,10 @@ a:visited {
     color: #595959;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 3px solid #d5d5d5;
     font-size: .8em;
     text-align: center;
+    padding-top: 30px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
