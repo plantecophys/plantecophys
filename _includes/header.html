@@ -1,4 +1,5 @@
-$(document).ready(function(){
+<script>
+    $(document).ready(function(){
     $('li').removeClass('active');
     $('li a').each(function() {
        $found = $.contains($(this).prop("href"),location.pathname);
@@ -8,6 +9,7 @@ $(document).ready(function(){
         }
     });
 });
+</script>
 <div class="container-fluid">
     <div class="row-fluid">
       <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
