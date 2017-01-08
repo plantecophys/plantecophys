@@ -61,7 +61,7 @@ li.inline {
     margin:0;
 }
 li.tag_list_item {
-    line-height:1;
+    line-height:0.5;
     list-style:none;
     margin:0;
 }
