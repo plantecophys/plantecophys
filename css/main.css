@@ -70,8 +70,6 @@ a.tag_list_link {
     color:#00cc99;
     font-size:14px;
     font-variant:small-caps;
-    margin:0;
-    padding: 0 0px;
     text-transform:lowercase;
 }
 a.tag_list_link:first-child {
