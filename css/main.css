@@ -42,7 +42,7 @@ a:visited {
 /* meta alkaa */
 .postdate {
     color: #cccccc;
-    font-size:12px;
+    font-size:18px;
 }
 .meta_wrapper {
     border:1px solid #d5d5d5;
@@ -70,7 +70,7 @@ a.tag_list_link {
     color:#00cc99;
     font-size:14px;
     font-variant:small-caps;
-    text-transform:lowercase;
+    text-transform:uppercase;
 }
 a.tag_list_link:first-child {
     border:0
