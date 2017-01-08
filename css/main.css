@@ -54,7 +54,7 @@ a:visited {
 }
 ul.tag_list_in_post {
     display:inline;
-    padding:0 0 0 10px;
+    padding:0 0 0 0px;
 }
 li.inline {
     display:inline;
