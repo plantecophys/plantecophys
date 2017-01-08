@@ -38,10 +38,36 @@ a:visited {
   color: #1a1a1a;
   border-color: #1a1a1a;
 }
+/* yleisilme loppuu */
+/* meta alkaa */
 .postdate {
     color: #cccccc;
 }
-/* yleisilme loppuu */
+.meta_wrapper {
+    border:1px solid #C9C6C3;
+    border-width:1px 0;
+    color:#666;
+    font-size:12px;
+    line-height:20px;
+    margin:0 0 20px;
+    padding:1px 0;
+    text-transform:uppercase
+}
+ul.tag_list_in_post {
+    border-left:1px solid #bbb;
+    display:inline;
+    margin-left:15px;
+    padding:0 0 0 10px;
+}
+ul.tags {
+    float:right;
+    width:280px
+}
+ul.tag_list {
+    margin-left:52px;
+    padding-bottom:20px;
+}
+/* meta loppuu */
 /* Recent Posts box alkaa */
 .recentposts h1 {
     color: #ffa366;
