@@ -53,9 +53,7 @@ a:visited {
     text-transform:uppercase
 }
 ul.tag_list_in_post {
-    border-left:1px solid #d5d5d5;
     display:inline;
-    margin-left:15px;
     padding:0 0 0 10px;
 }
 li.inline {
