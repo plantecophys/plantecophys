@@ -42,7 +42,8 @@ a:visited {
 /* meta alkaa */
 .postdate {
     color: #cccccc;
-    font-size:28px;
+    font-size:17px;
+    margin:0 0 0 0px;
 }
 .meta_wrapper {
     border:1px solid #d5d5d5;
