@@ -40,10 +40,12 @@ a:visited {
 }
 /* yleisilme loppuu */
 /* meta alkaa */
+.postdate {
+    color: #cccccc;
+}
 .meta_wrapper {
     border:1px solid #d5d5d5;
     border-width:1px 0;
-    color:#666;
     font-size:12px;
     line-height:20px;
     margin:0 0 20px;
