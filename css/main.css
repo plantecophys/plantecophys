@@ -47,7 +47,7 @@ a:visited {
     border:1px solid #d5d5d5;
     border-width:1px 0;
     font-size:12px;
-    line-height:10px;
+    line-height:20px;
     margin:0 0 20px;
     padding:1px 0;
     text-transform:uppercase
@@ -58,6 +58,7 @@ ul.tag_list_in_post {
 }
 li.inline {
     display:inline;
+    margin:0;
 }
 li.tag_list_item {
     line-height:1;
