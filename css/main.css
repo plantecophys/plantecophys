@@ -44,6 +44,7 @@ a:visited {
     color: #cccccc;
     font-size:17px;
     line-height:17px;
+    font-variant:small-caps;
 }
 .meta_wrapper {
     border:1px solid #d5d5d5;
