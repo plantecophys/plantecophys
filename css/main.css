@@ -42,7 +42,31 @@ a:visited {
     color: #cccccc;
 }
 /* yleisilme loppuu */
-/* footeri ym alkaa */
+/* Recent Posts box alkaa */
+.recentposts h1 {
+    color: #ffa366;
+    font-size: 1.3em;
+}
+.recentposts a {
+    color: #00cc99;
+}
+.recentposts a:hover {
+    text-decoration: none;
+    color: #595959;
+}
+.recentposts a:visited {
+    text-decoration: none;
+    color: #595959;
+}
+.recentposts li {
+    margin-top: 0em;
+    line-height: 1em;
+    color: #cccccc;
+    list-style-type: none;
+    padding: 0;
+}
+/* Recent Posts box loppuu*/
+/* footeri ja nav alkaa */
 /*TODO should maybe separate nav and footer */
 .copyright {
     color: #ffffff;
@@ -75,7 +99,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-/* footeri ym loppuu */
+/* footeri ja nav loppuu */
 /* Blogin etusivu alkaa */
 ul.blog { 
     margin: 20px auto 40px; 
@@ -86,30 +110,18 @@ ul.blog li {
     color: #cccccc;
 }
 /* Blogin etusivu loppuu */
-/* Recent Posts box alkaa */
-.recentposts h1 {
-    color: #ffa366;
-    font-size: 1.3em;
+/* Tagit alkaa */
+.archive_list {
 }
-.recentposts a {
-    color: #00cc99;
+.archive_list_article_link {
 }
-.recentposts a:hover {
-    text-decoration: none;
-    color: #595959;
+.tag_list {
 }
-.recentposts a:visited {
-    text-decoration: none;
-    color: #595959;
+.inline archive_list {
 }
-.recentposts li {
-    margin-top: 0em;
-    line-height: 1em;
-    color: #cccccc;
-    list-style-type: none;
-    padding: 0;
+.tag_list_link {
 }
-/* Recent Posts box loppuu*/
+/* Tagit loppuu */
 /* Commentit alkaa */
 .media p {
     font-size: 1.3em;
