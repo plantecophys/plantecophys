@@ -67,7 +67,6 @@ li.tag_list_item {
     margin:0;
 }
 a.tag_list_link {
-    border-left:1px solid #ccc;
     color:#00cc99;
     font-size:14px;
     font-variant:small-caps;
