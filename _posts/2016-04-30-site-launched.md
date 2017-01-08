@@ -1,17 +1,7 @@
 ---
 layout: post
 title: Site launched
-date: 2017-01-06T00:00:00.000Z
-comments:
-  - author:
-      type: twitter
-      displayName: testitesterson
-      url: 'https://twitter.com/testitesterson'
-      picture: >-
-        https://abs.twimg.com/sticky/default_profile_images/default_profile_2_bigger.png
-    content: test test test
-    date: 2017-01-08T15:40:41.398Z
-
+date: 2017-01-06
 ---
 
 <p>So, I guess I <i>finally</i> got around to launching this website. It was a long time coming, and with me coming from no real coding background, it was a rocky road. I used to have homepages when I was a kid (some 15 years ago), but back then you didn't have to think about mobile device readability and such. All the same, I saw it as a nice little challenge for myself then and now again.
