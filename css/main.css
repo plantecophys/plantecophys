@@ -70,7 +70,7 @@ a.tag_list_link {
     color:#00cc99;
     font-size:14px;
     font-variant:small-caps;
-    padding: 0 0 0 5px;
+    padding: 0 5 0 0px;
 }
 a.tag_list_link:first-child {
     border:0
