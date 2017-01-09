@@ -58,12 +58,14 @@ ul.tag_list_in_post {
 }
 li.tag_list_item {
     line-height:14px;
+    font-size:14px;
     list-style:none;
     margin:0;
     display:inline;
 }
 a.tag_list_link {
     color:#00cc99;
+    line-height:14px;
     font-size:14px;
     font-variant:small-caps;
     padding: 0 5 0 0px;
