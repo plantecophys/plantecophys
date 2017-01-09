@@ -117,21 +117,19 @@ a:visited {
     text-decoration: none;
     color: #595959;
 }
-footer {
+.footerouter{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+.footerinner {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     text-align: center;
     padding-top: 10px;
     width: 400px
 }
-/*
-.footerouter {
-width: 100px; padding-top: 0; 
-}
-.footerinner {
-width: 40px; border-top: 1px solid black; margin-top: 0; }
-}
-*/
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
