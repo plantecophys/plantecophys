@@ -119,7 +119,8 @@ a:visited {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    border-width: 80px;
+    height: 100px;
+    position: relative;
     font-size: .8em;
     text-align: center;
     padding-top: 10px;
