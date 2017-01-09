@@ -119,11 +119,10 @@ a:visited {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    height: 100px;
-    position: relative;
     font-size: .8em;
     text-align: center;
     padding-top: 10px;
+    border-top-width: 15px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
