@@ -52,28 +52,28 @@ a:visited {
     margin:0 0 20px;
     padding:0px 0;
 }
-ul.tag {
+.tag ul {
     display:inline;
     padding:0 0 0 0px;
 }
-li.tag {
+.tag li {
     line-height:14px;
     font-size:14px;
     list-style:none;
     margin:0;
     display:inline;
 }
-a.tag {
+.tag a {
     color:#00cc99;
     line-height:14px;
     font-size:14px;
     font-variant:small-caps;
     padding: 0 5 0 0px;
 }
-a.tag:first-child {
+.tag a:first-child {
     border:0
 }
-a.tag:hover {
+.tag a:hover {
     color:#444;
 }
 /* meta loppuu */
