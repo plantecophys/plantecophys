@@ -55,8 +55,6 @@ a:visited {
 ul.tag_list_in_post {
     display:inline;
     padding:0 0 0 0px;
-    padding-bottom:0;
-    margin:0;
 }
 li.tag_list_item {
     line-height:14px;
