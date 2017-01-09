@@ -120,7 +120,6 @@ a:visited {
 .footerclass{
     margin: auto;
     width: 60%;
-    border: 3px solid #73AD21;
     padding: 10px;
 }
 footer {
@@ -128,7 +127,6 @@ footer {
     font-size: .8em;
     text-align: center;
     padding-top: 10px;
-    width: 400px
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
