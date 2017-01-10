@@ -71,7 +71,6 @@ a:visited {
 }
 .tag a:first-child {
     border:0;
-    margin:0 20 0 0;
 }
 .tag a:hover {
     color:#444;
