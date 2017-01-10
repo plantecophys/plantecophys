@@ -60,14 +60,14 @@ a:visited {
     font-size:14px;
     list-style:none;
     display:inline;
-    margin:0 5 0 0px;
+    margin:0;
 }
 .tag a {
     color:#00cc99;
     line-height:14px;
     font-size:14px;
     font-variant:small-caps;
-    padding: 0 5 0 0px;
+    padding: 0 20 0 0px;
 }
 .tag a:first-child {
     border:0
