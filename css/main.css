@@ -48,12 +48,13 @@ a:visited {
 .meta_wrapper {
     border:1px solid #d5d5d5;
     border-width:1px 0;
-    margin:0 0 20 0px;
+    margin:0 0 20px;
     padding:0px 0;
 }
 .tag ul {
     display:inline;
     padding:0 0 0 0px;
+    margin:0 20 0 0px;
 }
 .tag li {
     line-height:14px;
