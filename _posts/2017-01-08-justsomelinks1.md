@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Just some links, part 1"
+title: "Just some random links, part 1"
 date: 2017-01-10
 tags:
 - just some links
 ---
 
-<p>I'm going to start collecting all sorts of interesting/fun stuff from around the web into posts called "Just some links" whenever I've come across any. These will be links to videos, articles and so on that I couldn't tie into a full story, but which I found somehow interesting (nb, none of these have to be especially fresh... interesting things rarely stop being interesting very soon).</p>
+<p>I'm going to start collecting all sorts of interesting/fun stuff from around the web into posts called "Just some random links" whenever I've come across any. These will be links to videos, articles and so on that I couldn't tie into a full story, but which I found somehow interesting (nb, none of these have to be especially fresh... interesting things rarely stop being interesting very soon).</p>
 
-<p>So here are the first links!</p>
+<p>So here are the first interesting random links!</p>
 
 <p>1) Vox had <a href="http://www.vox.com/2016/6/3/11837888/simulation-problem">a fun little lightweight philosophical venture</a> into what Elon Musk said about our reality being a simulation. So, would it matter even if we did live in the Matrix?</p>
 
