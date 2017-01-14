@@ -3,8 +3,7 @@ layout: post
 title: "Just some links, part 1"
 date: 2017-01-10
 tags:
-- random links of the week
-- music
+- just some links
 ---
 
 <p>I'm going to start collecting all sorts of interesting/fun stuff from around the web into posts called "Just some links" whenever I've come across any. These will be links to videos, articles and so on that I couldn't tie into a full story, but which I found somehow interesting (nb, none of these have to be especially fresh... interesting things rarely stop being interesting very soon).</p>
