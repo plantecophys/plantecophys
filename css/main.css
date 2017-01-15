@@ -107,6 +107,9 @@ a:visited {
 /*TODO should maybe separate nav and footer */
 .copyright {
     color: #ffffff;
+    margin: auto;
+    width: 60%;
+    padding: 60px;
 }
 .copyright a {
     color: #00cc99;
