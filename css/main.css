@@ -54,6 +54,9 @@ a:visited {
     font-size: 3em;
     color: #ffa366;
 }
+.numbering h1::after {
+    content:"»";
+}
 /* quote */
 .quote p {
     color:#ffa366;
