@@ -50,11 +50,11 @@ a:visited {
     height: auto;
 }
 /* numbering */
-.numbering h1::first-letter {
+.numbering p::first-letter {
     font-size: 3em;
     color: #ffa366;
 }
-.numbering h1::after {
+.numbering p::after {
     content:"»";
 }
 /* quote */
