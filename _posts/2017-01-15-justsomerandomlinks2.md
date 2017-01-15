@@ -7,7 +7,7 @@ tags:
 ---
 
 <p>Okay, time for a second posting. Here's some more gold nuggets from around the wild wild web for this fine sunday:</p>
-<p>1) In case you completely missed the <a href="https://shapertools.com/w">Shaper Origin</a> last year, chech out some of their introductory videos. It's quite astounding, a handheld CNC router that works on any scale. Hope they actually get them to the markets soon...</p>
+<p>1) In case you completely missed the <a href="https://shapertools.com/">Shaper Origin</a> last year, chech out some of their introductory videos. It's quite astounding, a handheld CNC router that works on any scale. Hope they actually get them to the markets soon...</p>
 <p>2) One guy recently talking about the Shaper is Ben Krasnow, the guy who built his own <a href="https://www.youtube.com/watch?v=GuCdsyCWmt8">electron microscope in his garage.</a>. On <a href="https://www.youtube.com/user/bkraz333/videos?sort=p&flow=grid&view=0">his Youtube-channel</a>, he has several interesting videos, here's a couple:
 <div style="margin: 0px auto; text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Z0SsAyHKzc" frameborder="0" allowfullscreen></iframe>
