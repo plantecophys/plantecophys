@@ -62,11 +62,11 @@ a:visited {
     line-height:20px;
     font-size:20px;
     font-variant:small-caps;
-    font-style: oblique;
 }
 .quote p::first-letter {
     font-size: 3em;
     color: #ffa366;
+    font-style: oblique;
 }
 .quote p::before {
     content:""";
