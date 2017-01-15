@@ -2,10 +2,10 @@
 layout: default
 title: Blog entries
 ---
-	<h1>{{ page.title }}</h1>
-<p>
-	<a href="https://anttitenkanen.github.io/blog/atom.xml">subscribe to my feed <img border="0" alt="RSS feed" src="/img/rss.png" width="20" height="20"> </a>
-</p>
+<h1>{{ page.title }}</h1>
+<div class="tag">
+<p><a href="https://anttitenkanen.github.io/blog/atom.xml">subscribe to my feed <img border="0" alt="RSS feed" src="/img/rss.png" width="20" height="20"></a></p>
+</div>
 	<ul class="blog">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
