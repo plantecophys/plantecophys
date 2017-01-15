@@ -24,7 +24,7 @@ tags:
 <br>
 <h1>3)</h1><p> Then something completely different. Homeopathy was quite often in <a href="http://yle.fi/uutiset/3-9339602">the headlines</a> in Finnish media last year. Especially there was discussion about <a href="http://yle.fi/uutiset/3-8635004">why Finland still doesn't have a law governing alternative medicine</a>. On the same vein, Lauri Reuter writes about <a href="http://yle.fi/aihe/artikkeli/2016/12/30/nakokulma-google-uskoo-homeopatiaan-ja-se-vaarallista">the dangers of homeopathy</a> and in another article about what he thinks is wrong with <a href="http://yle.fi/aihe/artikkeli/2016/07/15/luomu-taytyy-korjata">Organic produce</a> (all links in Finnish).</p>
 <br>
-<img class="centered" src="https://dl.dropboxusercontent.com/content_link/V3anRLQDRnkVPxWDb2AXfeREKpFeYQWMz5WfOkOX3CwsItbHhKSu7O8dnKVbQNIQ/file" alt="pic of unicorn", width="300">
+<img class="centered" src="https://dl.dropboxusercontent.com/content_link/V3anRLQDRnkVPxWDb2AXfeREKpFeYQWMz5WfOkOX3CwsItbHhKSu7O8dnKVbQNIQ/file" alt="pic of unicorn">
 <div class="quote">
 <p>"In the eyes of the scientific community, homeopathy belongs to the same category with angel therapy, unicorns and horoscopes. They're not part of this reality. But that doesn't mean that they should not be written about!" -Lauri Reuter</p>
 </div>
