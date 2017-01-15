@@ -122,14 +122,13 @@ a:visited {
 .footerclass{
     margin: auto;
     width: 60%;
-    padding: 60px;
+    padding: 600px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     text-align: center;
     padding-top: 5px;
-    margin: 0px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
