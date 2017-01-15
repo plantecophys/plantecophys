@@ -43,6 +43,20 @@ a:visited {
     margin-left: auto;
     margin-right: auto;
 }
+/* quote */
+.quote p {
+    color:#ffa366;
+    line-height:20px;
+    font-size:20px;
+    font-variant:small-caps;
+}
+.quote p::first-letter {
+    font-size: 3em;
+    color: #ffa366;
+}
+.quote p::before {
+    content:""";
+}
 /* meta */
 .postdate {
     color: #cccccc;
@@ -131,7 +145,7 @@ footer {
     padding-top: 5px;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:"Courier New", Courier, monospace
     padding: 0px;
     list-style: none;
     font-weight: bold;
