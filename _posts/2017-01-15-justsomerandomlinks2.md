@@ -8,9 +8,9 @@ tags:
 
 <p>Okay, time for a second posting. Here's some more gold nuggets from around the wild wild web for this fine sunday:</p>
 <br>
-<h1>1)</h1><p>In case you completely missed the <a href="https://shapertools.com/">Shaper Origin</a> last year, chech out some of their introductory videos. It's quite astounding, a handheld CNC router that works on any scale. Hope they actually get them to the markets soon...</p>
+<h1 class="numbering">1)</h1><p>In case you completely missed the <a href="https://shapertools.com/">Shaper Origin</a> last year, chech out some of their introductory videos. It's quite astounding, a handheld CNC router that works on any scale. Hope they actually get them to the markets soon...</p>
 <br>
-<h1>2)</h1><p>One guy recently talking about the Shaper is Ben Krasnow, the guy who built his own <a href="https://www.youtube.com/watch?v=GuCdsyCWmt8">electron microscope in his garage.</a>. On <a href="https://www.youtube.com/user/bkraz333/videos?sort=p&flow=grid&view=0">his Youtube-channel</a>, Krasnow has several interesting videos, here's a couple:</p>
+<h1 class="numbering">2)</h1><p>One guy recently talking about the Shaper is Ben Krasnow, the guy who built his own <a href="https://www.youtube.com/watch?v=GuCdsyCWmt8">electron microscope in his garage.</a>. On <a href="https://www.youtube.com/user/bkraz333/videos?sort=p&flow=grid&view=0">his Youtube-channel</a>, Krasnow has several interesting videos, here's a couple:</p>
 <br>
 <div style="margin: 0px auto; text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Z0SsAyHKzc" frameborder="0" allowfullscreen></iframe>
@@ -24,7 +24,7 @@ tags:
 <br>
 <h1>3)</h1><p> Then something completely different. Homeopathy was quite often in <a href="http://yle.fi/uutiset/3-9339602">the headlines</a> in Finnish media last year. Especially there was discussion about <a href="http://yle.fi/uutiset/3-8635004">why Finland still doesn't have a law governing alternative medicine</a>. On the same vein, Lauri Reuter writes about <a href="http://yle.fi/aihe/artikkeli/2016/12/30/nakokulma-google-uskoo-homeopatiaan-ja-se-vaarallista">the dangers of homeopathy</a> and in another article about what he thinks is wrong with <a href="http://yle.fi/aihe/artikkeli/2016/07/15/luomu-taytyy-korjata">Organic produce</a> (all links in Finnish).</p>
 <br>
-<img class="centered" src="https://dl.dropboxusercontent.com/content_link/V3anRLQDRnkVPxWDb2AXfeREKpFeYQWMz5WfOkOX3CwsItbHhKSu7O8dnKVbQNIQ/file" alt="pic of unicorn", width=300>
+<img class="centered" src="https://dl.dropboxusercontent.com/content_link/V3anRLQDRnkVPxWDb2AXfeREKpFeYQWMz5WfOkOX3CwsItbHhKSu7O8dnKVbQNIQ/file" alt="pic of unicorn", width="300">
 <div class="quote">
 <p>"In the eyes of the scientific community, homeopathy belongs to the same category with angel therapy, unicorns and horoscopes. They're not part of this reality. But that doesn't mean that they should not be written about!" -Lauri Reuter</p>
 </div>
