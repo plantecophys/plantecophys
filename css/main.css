@@ -60,7 +60,7 @@ a:visited {
 .quote p {
     color:#ffa366;
     line-height:20px;
-    font-size:20px;
+    font-size:24px;
     font-variant:small-caps;
     font-style: oblique;
     font-family:"Courier New", Courier, monospace
@@ -158,6 +158,9 @@ footer {
     font-size: .8em;
     text-align: center;
     padding-top: 5px;
+}
+nav {
+    font-family:"Courier New", Courier, monospace
 }
 nav ul, footer ul {
     font-family:"Courier New", Courier, monospace
