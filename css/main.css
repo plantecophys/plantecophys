@@ -56,9 +56,9 @@ a:visited {
     margin-top:7px;
     margin-right:5px;
 }
-.numbering p::after {
+/*.numbering p::after {
     content:"»";
-}
+} POIS KUN TOIMII*/
 /* quote */
 .quote p {
     color:#ffa366;
