@@ -74,9 +74,9 @@ a:visited {
 }
 /* meta */
 .meta_wrapper {
-    border:1px 1px solid #d5d5d5;
+    border:1px solid #d5d5d5;
     border-width:1px 0;
-    margin:0 0 20px;
+    margin:0 0 20 20px;
     padding:0px 0;
 }
 .postdate {
