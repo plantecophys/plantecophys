@@ -3,8 +3,6 @@ layout: default
 title: All tags
 ---
 <h1>All tags:</h1>
-<ul class="blog">
- 	{% for tags in page.tags %}
-    	<li>{{ tags }}</li>
-	{% endfor %}
-</ul>
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
