@@ -2,7 +2,8 @@
 layout: post
 title: "Just some random links, part 2"
 date: 2017-01-15
-tags: [just some links]
+tags: 
+- just some links
 ---
 
 <p>Okay, time for a second posting. Here's some more gold nuggets from around the wild wild web for this fine sunday:</p>
