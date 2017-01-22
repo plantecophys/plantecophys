@@ -101,7 +101,7 @@ a:visited {
     color:#00cc99;
     line-height:14px;
     font-size:14px;
-    font-family:"Courier New", Courier, monospace
+    font-family:"Courier New", Courier, monospace;
     /*font-variant:small-caps;*/
     padding: 0 0 0 0px;
 }
