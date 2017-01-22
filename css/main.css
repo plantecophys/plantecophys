@@ -5,7 +5,8 @@ body {
     margin: 70px auto 0px auto;
     /*width: 100%;*/
     background-color: #1a1a1a;
-    font-family:"Courier New", Courier, monospace
+    font-family: Consolas,monaco,monospace
+    /*font-family:"Courier New", Courier, monospace*/
     /*font-family:'Lora', 'Times New Roman', sans-serif;*/
 }
 h1 {
