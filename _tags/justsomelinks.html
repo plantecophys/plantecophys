@@ -1,0 +1,10 @@
+---
+layout: default
+title: Tags
+---
+	<h1>Posts tagged &ldquo;Just some links&rdquo;</h1>
+	<ul class="blog">
+		{% for post in site.categories.justsomelinks %}
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
