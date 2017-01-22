@@ -10,7 +10,7 @@ tags:
 
 <p>So here are the first interesting random links!</p>
 
-<p>1) Vox had <a href="http://www.vox.com/2016/6/3/11837888/simulation-problem">a fun little lightweight philosophical venture</a> into what Elon Musk said about our reality being a simulation. So, would it matter even if we did live in the Matrix?</p>
+<div class="numbering"><p>1» Vox had <a href="http://www.vox.com/2016/6/3/11837888/simulation-problem">a fun little lightweight philosophical venture</a> into what Elon Musk said about our reality being a simulation. So, would it matter even if we did live in the Matrix?</p></div>
 
 <p>2) Theorytab's website has <a href="http://www.hooktheory.com/trends" target="_blank">a pretty interesting tool</a> that let's you analyse the chord progressions from thousands of popular songs. Just follow the percentages and write your own musical masterpiece/trash!
 </p>
