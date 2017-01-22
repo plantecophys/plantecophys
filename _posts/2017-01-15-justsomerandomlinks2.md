@@ -12,12 +12,12 @@ tags:
 <br>
 <div class="numbering"><p>2 » One guy recently talking about the Shaper is Ben Krasnow, the guy who built his own <a href="https://www.youtube.com/watch?v=GuCdsyCWmt8">electron microscope in his garage.</a>. On <a href="https://www.youtube.com/user/bkraz333/videos?sort=p&flow=grid&view=0">his Youtube-channel</a>, Krasnow has several interesting videos, here's a couple:</p></div>
 <br>
-<div style="margin: 0px auto; text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Z0SsAyHKzc" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/9Z0SsAyHKzc" allowfullscreen></iframe>
 </div>
 <br>
-<div style="margin: 0px auto; text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lfmrvxB154w" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/lfmrvxB154w" allowfullscreen></iframe>
 </div>
 <br>
 <p>I think he might be completely insane (: but all the same I'm very interested in how such jack-of-all-trades -kind of people come to be. I don't think any amount of education would be enough to create an engineer like him, even if education is incredibly important. Quite likely Krasnow isn't completely self-taught, but his skills work mostly for his own merit. Sure, there has to be a fair deal of giftedness in play as well, but I know many a gifted, well-educated people who definately don't amount to such "uomo universale" status. Anyways, a very interesting guy with fun projects. I will try to be sure to link to other such people's pages in the future!</p>
