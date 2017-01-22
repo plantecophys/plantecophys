@@ -73,17 +73,17 @@ a:visited {
     content:""";
 }
 /* meta */
+.meta_wrapper {
+    border:1px 1px solid #d5d5d5;
+    border-width:1px 0;
+    margin:0 0 20px;
+    padding:0px 0;
+}
 .postdate {
     color: #cccccc;
     font-size:17px;
     line-height:17px;
     font-variant:small-caps;
-}
-.meta_wrapper {
-    border:1px solid #d5d5d5;
-    border-width:1px 0;
-    margin:0 0 20px;
-    padding:0px 0;
 }
 .tag ul {
     display:inline;
