@@ -49,10 +49,17 @@ a:visited {
     height: auto;
 }
 /* numbering */
-.numbering p::first-letter {
+.numbering {
+    float:left;
+    font-size:400%;
+    margin-top:14px;
+    margin-right:5px;
+    color:#8C8273;
+}
+/*.numbering p::first-letter {
     font-size: 3em;
     color: #ffa366;
-}
+}*/
 .numbering p::after {
     content:"»";
 }
