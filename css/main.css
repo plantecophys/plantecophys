@@ -86,16 +86,12 @@ a:visited {
     font-variant:small-caps;
     margin:5px 0 5px 0;
 }
-.tag {
-    margin:0px 0 0 0;
-    line-height:5px;
-}
 .tag ul {
     display:inline;
     padding:0 0 0 0px;
 }
 .tag li {
-    line-height:14px;
+    line-height:5px;
     font-size:14px;
     list-style:none;
     display:inline;
