@@ -20,6 +20,6 @@ I had some thoughts about my to-be pages before I decided on the way to approach
 <p>But in the meantime, here we go. I'll be using this site as a kind of diary, linking interesting things from the internet and sharing my viewpoints on anything. All opinions herein are mine, and feel free to comment!</p>
 
 <p> As a first post, check out this video of a guy who built his own VR set with multiple Kinects. It might be a far cry from what companies like Macig Leap <a href="http://www.wired.com/2016/04/magic-leap-vr/">promise</a> but it's DIY and as a proof of concept quite staggering.</p>
-<div style="margin: 0px auto; text-align: center;">
-<iframe width="360" src="https://www.youtube-nocookie.com/embed/Ghgbycqb92c" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Ghgbycqb92c" allowfullscreen></iframe>
 </div>
