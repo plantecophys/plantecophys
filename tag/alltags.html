@@ -1,0 +1,10 @@
+---
+layout: default
+title: Tags
+---
+	<h1>All tags:</h1>
+	<ul class="blog">
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
+	</ul>
