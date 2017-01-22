@@ -10,7 +10,7 @@ tags:
 <br>
 <div class="numbering"><p>1 » In case you completely missed the <a href="https://shapertools.com/">Shaper Origin</a> last year, chech out some of their introductory videos. It's quite astounding, a handheld CNC router that works on any scale. Hope they actually get them to the markets soon...</p></div>
 <br>
-<div class="numbering"><p>2 » One guy recently talking about the Shaper is Ben Krasnow, the guy who built his own <a href="https://www.youtube.com/watch?v=GuCdsyCWmt8">electron microscope in his garage.</a>. On <a href="https://www.youtube.com/user/bkraz333/videos?sort=p&flow=grid&view=0">his Youtube-channel</a>, Krasnow has several interesting videos, here's a couple:</p></div>
+<div class="numbering"><p>2 » One guy recently talking about the Shaper is Ben Krasnow, the guy who built his own <a href="https://www.youtube.com/watch?v=GuCdsyCWmt8">electron microscope in his garage</a>. On <a href="https://www.youtube.com/user/bkraz333/videos?sort=p&flow=grid&view=0">his Youtube-channel</a>, Krasnow has several interesting videos, here's a couple:</p></div>
 <br>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/9Z0SsAyHKzc" allowfullscreen></iframe>
