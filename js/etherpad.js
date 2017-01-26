@@ -4,6 +4,7 @@
     var settings = {
       'host'              : 'http://beta.etherpad.org',
       'baseUrl'           : '/p/',
+      'padID'             : 'test1',
       'showControls'      : false,
       'showChat'          : false,
       'showLineNumbers'   : false,
