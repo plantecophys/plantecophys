@@ -7,7 +7,7 @@
       'showControls'      : false,
       'showChat'          : false,
       'showLineNumbers'   : false,
-      'userName'          : 'test1',
+      'userName'          : 'unnamed',
       'lang'              : '',
       'useMonospaceFont'  : false,
       'noColors'          : false,
