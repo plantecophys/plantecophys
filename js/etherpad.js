@@ -3,7 +3,7 @@
   $.fn.pad = function( options ) {
     var settings = {
       'host'              : 'http://beta.etherpad.org',
-      'baseUrl'           : '/p/',
+      'baseUrl'           : '/p/test1',
       'showControls'      : false,
       'showChat'          : false,
       'showLineNumbers'   : false,
