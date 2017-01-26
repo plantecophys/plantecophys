@@ -3,11 +3,11 @@
   $.fn.pad = function( options ) {
     var settings = {
       'host'              : 'http://beta.etherpad.org',
-      'baseUrl'           : '/p/test1',
+      'baseUrl'           : '/p/',
       'showControls'      : false,
       'showChat'          : false,
       'showLineNumbers'   : false,
-      'userName'          : 'unnamed',
+      'userName'          : 'test1',
       'lang'              : '',
       'useMonospaceFont'  : false,
       'noColors'          : false,
