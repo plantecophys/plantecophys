@@ -47,16 +47,19 @@ tags:
 </div>
 <br>
 <div class="numbering"><p>3 » Here's a gentleman's opinion about freshwater seals and people researching them...</p></div>
+<br>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/Lo3bsyKD3hM" allowfullscreen></iframe>
 </div>
 <br>
 <div class="numbering"><p>4 » ...Some music for you...</p></div>
+<br>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ocGiulPm3IU" allowfullscreen></iframe>
 </div>
 <br>
 <div class="numbering"><p>5 » ...And finally, this list wouldn't be complete without some good conspiracy theories.</p></div>
+<br>
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/MiC9X_MoE1M" allowfullscreen></iframe>
 </div>
